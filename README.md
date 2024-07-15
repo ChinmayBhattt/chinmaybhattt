@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChinmaY BhaTT</h1>
 <h3 align="center">I Am A.I And Science Enthusias</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRmZGV0bTd5dTdpMnFxYjhrYnZzcHBtMWJ0eXdseGY0NmI4YmZ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 
