@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **A.I, ML,Data Science**
 
-- 👨‍💻 Portfolio [https://linktr.ee/ChinmayBhattt](https://linktr.ee/ChinmayBhattt)
+- 🔗 Portfolio [https://linktr.ee/ChinmayBhattt](https://linktr.ee/ChinmayBhattt)
 
 - 💬 Ask me about **Anything and Everything!**
 
