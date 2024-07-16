@@ -1,3 +1,4 @@
+![logo](https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Purple%20%26%20White%20Modern%20Gaming%20Youtube%20Channel%20Art-2.png)
 <h1 align="center">Hi 👋, I'm ChinmaY BhaTT</h1>
 <h3 align="center">I Am A.I And Science Enthusias</h3>
 
