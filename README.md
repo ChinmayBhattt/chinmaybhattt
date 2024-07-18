@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm ChinmaY BhaTT</h1>
 <h3 align="center">I Am A.I And Science Enthusias</h3>
 
+<img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5eGs3YW1hcHhwdnFpenk5bGkzZG5vcm9tcXFjdXVpODRiMzlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 
 - 🔭 I’m Currently Studying **Computer Science**
