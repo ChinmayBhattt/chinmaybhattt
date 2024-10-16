@@ -11,7 +11,8 @@
 
 - 🧑🏻‍💻 I’m Currently Learning **A.I, ML,Data Science**
 
-- 🔗 Portfolio [https://chinmaybhattt-portfolio.my.canva.site/]([https://linktr.ee/ChinmayBhattt](https://chinmaybhattt-portfolio.my.canva.site/))
+- 🔗 Portfolio
+- (https://chinmaybhattt-portfolio.my.canva.site/))
 
 - 💬 Ask me about **Anything and Everything!**
 
