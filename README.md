@@ -7,40 +7,37 @@
 </div>
 
 <h2 align="center">Leetcode Info</h2>  
-
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024 Badge" height="150" width="150" />
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024 Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024 Badge" height="150" width="150" />
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024 Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="150" width="150" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="150" width="150" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="200" width="200" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Scoring heatmap (LeetCard Stats) -->
-  <img align="center" width="450" src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
-</p>
+  <!-- Scoring heatmap -->
+  <img align="left" src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="500" />
 
-<p align="center">
-  <!-- Total contributions/current streak -->
+  <!-- Total contributions/current streaks -->
   <a href="https://git.io/streak-stats">
-    <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Languages Used -->
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <!-- Most used languages -->
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Current stats (GitHub Stats) -->
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <!-- Current stats -->
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </p>
