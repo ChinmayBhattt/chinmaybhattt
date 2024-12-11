@@ -22,22 +22,19 @@
   </a>
 </p>
 
-<p align="center">
+<!-- Main Content Section (Side by Side Layout) -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Scoring heatmap -->
-  <img align="left" src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="500" />
+  <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="400" />
 
   <!-- Total contributions/current streaks -->
   <a href="https://git.io/streak-stats">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
-</p>
 
-<p align="center">
   <!-- Most used languages -->
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 
-<p align="center">
   <!-- Current stats -->
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</div>
