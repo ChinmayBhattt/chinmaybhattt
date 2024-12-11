@@ -7,26 +7,29 @@
 </div>
 
 <h2 align="center">Leetcode Info</h2>  
+
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="2024 Badge" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024 Badge" height="150" width="150" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="2024 Badge" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024 Badge" height="150" width="150" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="150" width="150" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="150" width="150" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Scoring heatmap -->
-  <img align="left" src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
+  <!-- Scoring heatmap (LeetCard Stats) -->
+  <img align="center" width="450" src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=radical&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-  <!-- Total contributions/current streaks -->
+<p align="center">
+  <!-- Total contributions/current streak -->
   <a href="https://git.io/streak-stats">
     <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
@@ -38,6 +41,6 @@
 </p>
 
 <p align="center">
-  <!-- Current stats -->
+  <!-- Current stats (GitHub Stats) -->
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </p>
