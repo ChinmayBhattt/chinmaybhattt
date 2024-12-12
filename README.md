@@ -29,7 +29,7 @@
 
   <!-- Total contributions/current streaks -->
   <a href="https://git.io/streak-stats">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=ChinmayBhattt&theme=tokyonight-duo" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
   </a>
 
   <!-- Most used languages -->
