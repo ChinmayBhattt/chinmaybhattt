@@ -33,7 +33,7 @@
   </a>
 
   <!-- Most used languages -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&show=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 
   <!-- Current stats -->
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
