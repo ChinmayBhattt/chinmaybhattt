@@ -27,30 +27,31 @@
 <br>
 
 
-<!-- GitHub Stats, Streak, and Top Languages -->
-# 📊 GitHub Stats 
+# 📊 GitHub Stats
 <hr>
 
 <div align="center">
   <table>
     <tr>
       <td>
+        <!-- LeetCode Score -->
         <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=dark" alt="Chinmay GitHub Streak" />
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight_duo" alt="Chinmay GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td>
         <!-- Most Used Languages inside the border -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=dark&layout=compact" alt="Top Languages" width="700" height="auto" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
       </td>
       <td>
-        <!-- LeetCode Score and Productive Time Card placed next to each other -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=dark" alt="Chinmay GitHub Stats" />
+        <!-- GitHub Stats and Productive Time Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
         <br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8" alt="Productive Time" />
       </td>
     </tr>
   </table>
@@ -74,3 +75,8 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,bootstrap,c,wordpress,arduino" />
   </a>
 <hr>
+
+
+
+
+
