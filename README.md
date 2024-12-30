@@ -7,7 +7,7 @@
   -->
   
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
@@ -72,5 +72,3 @@
    <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,bootstrap,c,wordpress,arduino" />
   </a>
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=ChinmayBhattt.ChinmayBhattt" alt="visitor badge"/>
