@@ -1,4 +1,5 @@
 <div align="center">
+  
   <!-- Uncomment the section below to include the snake animation -->
   <!-- 
   <h2>🐍 Contributions 🐍</h2>
@@ -6,7 +7,6 @@
   -->
   
 </div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AEAFF&width=435&lines=Hey%2C+I+Am+Chinmay")/>
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
