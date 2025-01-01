@@ -28,31 +28,36 @@
 
 
 # 📊 GitHub Stats
-<hr>
 <div align="center">
   <table>
     <tr>
       <td>
-        <!-- LeetCode Score Section -->
+        <!-- LeetCode Score -->
         <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" />
       </td>
       <td>
-        <!-- GitHub Stats Section -->
+        <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td>
-        <!-- Most Used Languages Section (Larger Size) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact&card_width=500&card_height=350" alt="Top Languages" />
+        <!-- Most Used Languages (Larger Size) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact&card_width=500" alt="Top Languages" />
       </td>
       <td>
-        <!-- Productive Time Card Section (Stretched to full width) -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8&card_width=1000&card_height=350" alt="Productive Time" />
+        <!-- Productive Time Card (Larger Size) -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8&card_width=500" alt="Productive Time" />
       </td>
     </tr>
   </table>
+  
+  <!-- Activity Graph Section -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<hr>
+
 
 
 <!-- Divider line -->
