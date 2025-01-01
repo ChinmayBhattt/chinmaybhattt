@@ -28,6 +28,8 @@
 
 
 # 📊 GitHub Stats
+<hr>
+
 <div align="center">
   <table>
     <tr>
@@ -36,29 +38,24 @@
         <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" />
       </td>
       <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
+        <!-- GitHub Streak Stats -->
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=tokyonight&preferLogin=false&Ring=00CDDD&Border=DD2727)](https://git.io/awesome-stats-card" />
       </td>
     </tr>
     <tr>
       <td>
-        <!-- Most Used Languages (Larger Size) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact&card_width=500" alt="Top Languages" />
+        <!-- Most Used Languages inside the border -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
       </td>
       <td>
-        <!-- Productive Time Card (Larger Size) -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8&card_width=500" alt="Productive Time" />
+        <!-- GitHub Stats and Productive Time Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
+        <br>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8" alt="Productive Time" />
       </td>
     </tr>
   </table>
-  
-  <!-- Activity Graph Section -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-<hr>
-
-
 
 <!-- Divider line -->
 <hr>
@@ -78,8 +75,5 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,bootstrap,c,wordpress,arduino" />
   </a>
 <hr>
-
-
-
 
 
