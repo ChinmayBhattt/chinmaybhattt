@@ -39,7 +39,7 @@
       </td>
       <td>
         <!-- GitHub Streak Stats -->
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=tokyonight&preferLogin=false&Ring=00CDDD&Border=DD2727)](https://git.io/awesome-stats-card" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight_duo" alt="Chinmay GitHub Streak" />
       </td>
     </tr>
     <tr>
@@ -75,5 +75,3 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,bootstrap,c,wordpress,arduino" />
   </a>
 <hr>
-
-
