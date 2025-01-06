@@ -17,7 +17,7 @@
     <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024 Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="2024 Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="200" width="200" />
