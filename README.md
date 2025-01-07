@@ -1,7 +1,7 @@
   
 <div align="center">
 
- <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/ChinmayAnimatedBanner.gif" alt="Chinmay Animated Banner" height=180 />
+ <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/ChinmayAnimatedBanner.gif" alt="Chinmay Animated Banner" height=120 />
   <!-- Uncomment the section below to include the snake animation -->
   <!-- 
   <h2>🐍 Contributions 🐍</h2>
