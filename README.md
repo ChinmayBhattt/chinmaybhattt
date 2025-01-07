@@ -25,6 +25,9 @@
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="140" width="140" />
   </a>
+  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="140" width="140" />
+  </a>
 </p>
 
 
