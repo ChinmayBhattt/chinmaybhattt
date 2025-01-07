@@ -1,7 +1,7 @@
   
 <div align="center">
 
-  ![](https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/ChinmayAnimatedBanner.gif)
+ <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/ChinmayAnimatedBanner.gif" alt="Chinmay Animated Banner" height=180 />
   <!-- Uncomment the section below to include the snake animation -->
   <!-- 
   <h2>🐍 Contributions 🐍</h2>
@@ -26,8 +26,6 @@
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="200" width="200" />
   </a>
 </p>
-
-<br>
 
 
 # 📊 GitHub Stats
