@@ -54,8 +54,7 @@
       </td>
       <td>
         <!-- GitHub Stats and Productive Time Card -->
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=dark&preferLogin=false&Ring=00CDDD&Border=FFFFFF" />
-        <br>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false&Title=DDDDDD&Text=C2C2C2&Border=DDDDDD&Ring=66EAFF">    <img  alt="Chinmaybhattt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Chinmaybhattt?cardType=level&theme=dark&preferLogin=false&Title=DDDDDD&Text=C2C2C2&Border=DDDDDD&Ring=66EAFF" />  </a>        <br>
         <!-- GitHub Graph -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=github_dark&utcOffset=8" alt="Productive Time" />
       </td>
