@@ -44,7 +44,8 @@
       </td>
       <td>
         <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" width="500" height="auto" />
+<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" width="500" height="auto" /> -->
+         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false&Text=C7C7C7&Border=DDDDDD&Ring=00F5FF&Background=171717&Title=DDDDDD">    <img  alt="ChinmayBhattt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=github-dark&preferLogin=false&Text=C7C7C7&Border=DDDDDD&Ring=00F5FF&Background=171717&Title=DDDDDD" />  </a>
       </td>
     </tr>
   </table>
