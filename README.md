@@ -12,7 +12,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
-<h2 align="center">Leetcode Info</h2>  
+<!-- <h2 align="center">Leetcode Info</h2>   -->
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
     <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024 Badge" height="140" width="140" />
