@@ -44,7 +44,7 @@
       </td>
       <td>
         <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight_duo" alt="Chinmay GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" />
       </td>
     </tr>
     <tr>
