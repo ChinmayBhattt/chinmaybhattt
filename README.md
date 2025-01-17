@@ -35,20 +35,25 @@
 # 📊 GitHub Stats
 <hr>
 
+
 <div align="center">
   <table>
     <tr>
       <td>
         <!-- LeetCode Score -->
-        <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" />
+        <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" width="500" height="auto" />
       </td>
       <td>
         <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" width="500" height="auto" />
       </td>
     </tr>
-    <tr>
-      <td>
+  </table>
+  
+</div>
+<table>
+  
+  <td>
         <!-- Most Used Languages inside the border -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
       </td>
