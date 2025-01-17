@@ -54,9 +54,10 @@
       </td>
       <td>
         <!-- GitHub Stats and Productive Time Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=dark&preferLogin=false&Ring=00CDDD&Border=FFFFFF" />
         <br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8" alt="Productive Time" />
+        <!-- GitHub Graph -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=github_dark&utcOffset=8" alt="Productive Time" />
       </td>
     </tr>
   </table>
