@@ -82,7 +82,7 @@
 # 💻 Languages And Tools:
 
    <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
-      <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,bootstrap,c,wordpress,arduino" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,sklearn,mysql,git,github,tailwindcss,c,wordpress,arduino" />
   </a>
 <hr>
 
