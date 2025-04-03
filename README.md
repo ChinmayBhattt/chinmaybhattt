@@ -74,7 +74,7 @@
 
 - **First Year Student** in BTech (Artificial Intelligence & Data Science)  
 - **2x Times Hackathon Participant** & Leader of @NeuroScript Team 
-- **LinkedIn**: Impressions 50k+ | 1k+ Engagements  
+- **LinkedIn**: Impressions **50k+** | **1k+** Engagements  
 - **Skilled in**:  
   - Programming: `C++`, `Python`, `JavaScript`  
   - Full Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
