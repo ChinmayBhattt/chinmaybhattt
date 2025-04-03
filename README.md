@@ -73,7 +73,7 @@
 # 💫 About Me:
 
 - **First Year Student** in BTech (Artificial Intelligence & Data Science)  
-- **2x Hackathon Participant** & Leader of @NeuroScript Team 
+- **2x Times Hackathon Participant** & Leader of @NeuroScript Team 
 - **LinkedIn Stats**: 50k+ Impressions | 1k+ Engagements  
 - **Skilled in**:  
   - Programming: `C++`, `Python`, `JavaScript`  
