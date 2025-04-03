@@ -71,8 +71,19 @@
 <hr>
 
 # 💫 About Me:
-<br>• 👨🏻‍🎓𝗙𝗶𝗿𝘀𝘁-𝗬𝗲𝗮𝗿 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗶𝗻 𝗕.𝗧𝗲𝗰𝗵 (𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 & 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲)<br>• 🏆 𝗟𝗲𝗮𝗱𝗲𝗿 𝗼𝗳 @𝗡𝗲𝘂𝗿𝗼𝗦𝗰𝗿𝗶𝗽𝘁 Team || 𝗠𝗿.𝗙𝗿𝗲𝘀𝗵𝗲𝗿 Runner-Up<br>• 💬 Ask me about about 𝗖++ || 𝗣𝘆𝘁𝗵𝗼𝗻 || 𝗦𝗘𝗢 || 𝗪𝗲𝗯 Development<br>• 📫 How to reach me chinmaybhatt26@gmail.com<br>• 🌱 Growing through 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 and individual projects.
 
+- **First Year Student** in BTech (Artificial Intelligence & Data Science)  
+- **2x Hackathon Participant** & Leader of [@NeuroScript](https://github.com/NeuroScript)  
+- **LinkedIn Stats**: 50k+ Impressions | 1k+ Engagements  
+- **Skilled in**:  
+  - Programming: `C++`, `Python`, `JavaScript`  
+  - Full Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
+- **Tools**:  
+  - `Figma`, `WordPress`, `Git/GitHub`, `Jupyter`, `MongoDB Atlas`  
+- **Exploring**: Rocket Science alongside Programming and Design  
+- **Growth**: Thriving through collaborative and individual projects  
+
+Feel free to connect or collaborate! 🚀  
 
 ## 🔗 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6RpzEHYdKt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmaybhattt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaybhattt) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/chinmaybhattt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chinmaybhattt) [![LeetCode](https://img.shields.io/badge/LeetCode-%234b4b4b.svg?logo=LeetCode&logoColor=yellow)](https://LeetCode.com/@chinmaybhattt) 
