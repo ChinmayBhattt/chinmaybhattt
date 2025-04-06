@@ -72,7 +72,7 @@
 
 # 💫 About Me:
 
-- **First Year Student** in BTech (Artificial Intelligence & Data Science)  
+- **First Year Student** in BTech (Artificial Intelligence & Data Science)  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - **2x Times Hackathon Participant** & Leader of @NeuroScript Team 
 - **LinkedIn**: **50k+** Impressions | **1k+** Engagements  
 - **Skilled in**:  
