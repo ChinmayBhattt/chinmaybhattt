@@ -86,8 +86,13 @@
 Feel free to connect or collaborate! 🚀  
 
 ## 🔗 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6RpzEHYdKt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmaybhattt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaybhattt) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/chinmaybhattt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chinmaybhattt) [![LeetCode](https://img.shields.io/badge/LeetCode-%234b4b4b.svg?logo=LeetCode&logoColor=yellow)](https://LeetCode.com/@chinmaybhattt) 
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/chinmaybhattt)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6RpzEHYdKt)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/chinmaybhattt)
+[![Linktree](https://img.shields.io/badge/-Linktree-43E660?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/ChinmayBhattt)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/chinmaybhattt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/chinmaybhattt)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@chinmaybhattt)
 
 
 # 💻 Languages And Tools:
