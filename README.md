@@ -73,7 +73,8 @@
 # 💫 About Me:
 
 - **First Year Student** in BTech (Artificial Intelligence & Data Science)  <img src="https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif" min-width="350px" max-width="350px" width="450" align="right"> 
-- **3x Hackathon Participant** & Leader of @NeuroScript Team 
+- **3x Hackathon Participant** & Leader of @NeuroScript Team
+- **𝗖𝗼-𝗧𝗲𝗰𝗵 𝗟𝗲𝗮𝗱 & 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿** - @HackAryaVerse - @ACEIT
 - **LinkedIn**: **50k+** Impressions | **1k+** Engagements  
 - **Skilled in**:  
   - Programming: `C++`, `Python`, `JavaScript`  
