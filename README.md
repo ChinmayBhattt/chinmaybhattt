@@ -102,5 +102,7 @@ Feel free to connect or collaborate! 🚀
    <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,javascript,mongodb,nodejs,react,sklearn,mysql,git,github,tailwindcss,c,wordpress,arduino" />
   </a>
-<hr>
+<!--- <hr> --->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
