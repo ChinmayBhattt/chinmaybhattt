@@ -87,7 +87,7 @@
 
 Feel free to connect or collaborate! 🚀  
 
-## 🔗 Connect With Me:
+## 🔗 Connect With Me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/chinmaybhattt)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6RpzEHYdKt)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/chinmaybhattt)
