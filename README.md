@@ -28,12 +28,24 @@
 
 </p>
 
-
 <!--# 📊 GitHub Stats -->
 <!--#<hr>-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+
 <div align="center">
+  <table>
+    <tr>
+      <td>
+         <!-- GitHub Streak Stats -->
+        <a href="https://github.com/chinmaybhattt/github-readme-stats"><img alt="Chinmay Github Stats" src="https://github-readme-stats.vercel.app/api?username=chinmaybhattt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="580" /></a>
+         <!-- Most Used Languages inside the border -->
+  <a href="https://github.com/chinmaybhattt/github-readme-stats" ><img alt="Chinmay github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaybhattt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  width="389" /></a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
   <table>
     <tr>
       <td>
@@ -41,29 +53,12 @@
         <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" width="500" height="auto" />
       </td>
       <td>
-        <!-- GitHub Streak Stats -->
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight" alt="Chinmay GitHub Streak" width="500" height="auto" /> -->
-         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false&Text=C7C7C7&Border=DDDDDD&Ring=00F5FF&Background=171717&Title=DDDDDD">    <img  alt="ChinmayBhattt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ChinmayBhattt?cardType=github&theme=github-dark&preferLogin=false&Text=C7C7C7&Border=DDDDDD&Ring=00F5FF&Background=171717&Title=DDDDDD" />  </a>
+      <!-- GitHub Graph -->
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=github_dark&utcOffset=8" alt="Productive Time" width="450" />
       </td>
     </tr>
   </table>
-  
-</div>
-<table>
-  
-  <td>
-        <!-- Most Used Languages inside the border -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
-      </td>
-      <td>
-        <!-- GitHub Stats and Productive Time Card -->
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false&Title=DDDDDD&Text=C2C2C2&Border=DDDDDD&Ring=66EAFF">    <img  alt="Chinmaybhattt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Chinmaybhattt?cardType=level&theme=dark&preferLogin=false&Title=DDDDDD&Text=C2C2C2&Border=DDDDDD&Ring=66EAFF" />  </a>        <br>
-        <!-- GitHub Graph -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=github_dark&utcOffset=8" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <!-- Divider line -->
 <hr>
