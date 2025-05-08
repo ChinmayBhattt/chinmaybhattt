@@ -15,20 +15,18 @@
 <!-- <h2 align="center">Leetcode Info</h2>   -->
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024 Badge" height="140" width="140" />
-  </a>
-  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024 Badge" height="140" width="140" />
-  </a>
-  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="2024 Badge" height="140" width="140" />
-  </a>
-  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="2024 Badge" height="140" width="140" />
-  </a>
-  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="2024 Badge" height="140" width="140" />
-  </a>
+
+
+   <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="100" width="100" ></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif"  height="100" width="100"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/365.gif" height="100" width="100"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" width="100"  ></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="100" width="100"  ></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="100" width="100" ></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="100" width="100"  ></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="100" width="100"  ></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="100" width="100"  ></img>
+
 </p>
 
 
