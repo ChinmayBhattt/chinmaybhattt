@@ -80,15 +80,17 @@
 
 Feel free to connect or collaborate! 🚀  
 
-## 🔗 Connect With Me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/chinmaybhattt)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6RpzEHYdKt)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/chinmaybhattt)
-[![Linktree](https://img.shields.io/badge/-Linktree-43E660?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/ChinmayBhattt)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/chinmaybhattt)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/chinmaybhattt)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@chinmaybhattt)
+## 🔗 Connect with me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
+<p align="left">
 
+<a href = "https://instagram.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://x.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/twitter"/></a>
+<a href = "https://discord.gg/6RpzEHYdKt"><img src="https://img.icons8.com/color/48/000000/discord"/></a>
+<a href = "https://linkedin.com/in/chinmaybhattt"><img src="https://img.icons8.com/color/48/000000/linkedin"/></a>
+<a href = "https://linktr.ee/ChinmayBhattt"><img src="https://img.icons8.com/color/48/000000/linktree"/></a>
+<a href = "https://youtube.com/@chinmaybhattt"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
 
 # 💻 Languages And Tools:
 
