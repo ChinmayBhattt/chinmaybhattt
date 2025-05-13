@@ -72,7 +72,7 @@
 - **LinkedIn**: **50k+** Impressions | **1k+** Engagements  
 - **Skilled in**:  
   - Programming: `C++`, `Python`, `JavaScript`  
-  - Full Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
+  - MERN Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
 - **Tools**:  
   - `Figma`, `WordPress`, `Git/GitHub`, `Jupyter`, `MongoDB Atlas`  
 - **Exploring**: Rocket Science alongside Programming and Design  
