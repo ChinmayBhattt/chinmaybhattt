@@ -51,7 +51,7 @@
     <tr>
       <td>
         <!-- LeetCode Score -->
-        <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" width="500" height="auto" />
+        <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=chartreuse&font=Abel" alt="LeetCode Score" width="500" height="auto" />
       </td>
       <td>
       <!-- GitHub Graph -->
