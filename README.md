@@ -55,7 +55,7 @@
       </td>
       <td>
       <!-- GitHub Graph -->
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=github_dark&utcOffset=8" alt="Productive Time" width="450" />
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinmayBhattt&theme=aura" alt="Productive Time" width="490" />
       </td>
     </tr>
   </table>
