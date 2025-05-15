@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+  background-color: #0d1117;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+    .badges-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      gap: 15px;
+      background-color: rgba(0, 0, 0, 0.4); /* Optional dark overlay */
+    }
+
+    .badges-container img {
+      height: 100px;
+      width: 100px;
+    }
