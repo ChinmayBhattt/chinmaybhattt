@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 <!-- <h2 align="center">Leetcode Info</h2>   -->
-<p align="center">
-  <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
+  <link rel="stylesheet" href="style.css" />
 
 
-   <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="100" width="100" ></img>
+  <div class="background-container">
+    <img
+      src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/Thunderstorm.gif?raw=true"
+      alt="Thunderstorm Background"
+      class="background-gif"/>
+  </div>
+
+  <div class="badges-container">
+    <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank" rel="noopener noreferrer">
+     <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="100" width="100" ></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif"  height="100" width="100"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" height="100" width="100"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" width="100"  ></img>
@@ -16,8 +24,8 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="100" width="100" ></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="100" width="100"  ></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="100" width="100"  ></img>
-
-</p>
+    </a>
+  </div>
 
 <!--# 📊 GitHub Stats -->
 <!--#<hr>-->
