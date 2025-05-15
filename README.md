@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 <!-- <h2 align="center">Leetcode Info</h2>   -->
+<div class="badges-container">
+  
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank">
 
@@ -16,6 +18,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="100" width="100"  ></img>
 
 </p>
+</div>
 
 <!--# 📊 GitHub Stats -->
 <!--#<hr>-->
