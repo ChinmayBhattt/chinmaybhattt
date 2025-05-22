@@ -67,7 +67,7 @@
 - **Exploring**: Rocket Science alongside Programming and Design  
 - **Growth**: Thriving through collaborative and individual projects  
 
-Feel free to connect or collaborate! 🚀  
+Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26@gmail.com)  
 
 ## 🔗 Connect with me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
 <p align="left">
