@@ -1,4 +1,4 @@
-<!-- chinmay bhatt -->
+<!-- Chinmay Bhatt -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p>
 <!-- <h2 align="center">Leetcode Info</h2>   -->
