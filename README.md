@@ -52,7 +52,8 @@
 
 
 <!-- Divider line -->
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ <!-- <hr> -->
 
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 <!--https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif --->
