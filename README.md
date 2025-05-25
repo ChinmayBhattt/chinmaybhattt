@@ -45,8 +45,7 @@
       </td>
       <td>
       <!-- GitHub Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ChinmayBhattt" width="500"/>
-         <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=aura&utcOffset=8" alt="Productive Time" width="450" /> -->
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=aura&utcOffset=8" alt="Productive Time" width="450" />
       </td>
     </tr>
   </table>
