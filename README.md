@@ -87,7 +87,7 @@ Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26
 # 💻 Languages And Tools:
   
   <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
-      <img src="https://skillicons.dev/icons?i=cpp,python,cs,javascript,mongodb,nodejs,react,sklearn,mysql,git,github,fastapi,tailwindcss,wordpress,arduino" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,cs,javascript,mongodb,nodejs,react,sklearn,mysql,git,typescript,fastapi,tailwindcss,wordpress,arduino" />
   </a>
 
 <!--- <hr> --->
