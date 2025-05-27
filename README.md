@@ -75,7 +75,7 @@ Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26
 ## 🔗 Connect with me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
 <p align="left">
 
-<a href = "https://instagram.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://instagram.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"/></a>
 <a href = "https://x.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/twitter"/></a>
 <a href = "https://discord.gg/6RpzEHYdKt"><img src="https://img.icons8.com/color/48/000000/discord"/></a>
 <a href = "https://linkedin.com/in/chinmaybhattt"><img src="https://img.icons8.com/color/48/000000/linkedin"/></a>
