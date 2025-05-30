@@ -55,7 +55,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  <!-- <hr> -->
 
-### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 <!--https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif --->
 - **First Year Student** in BTech (Artificial Intelligence & Data Science)  <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right"> 
 - **3x Hackathon Participant** & Leader of @NeuroScript Team
@@ -71,7 +71,7 @@
 
 Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26@gmail.com)  
 
-## 🔗 Connect with me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="40" />
+## 🔗 Connect with me:  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="30" />
 <p align="left">
 
 <a href = "https://instagram.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -84,7 +84,7 @@ Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26
 
 </p>
 
-# 💻 Languages And Tools:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"   width="45" height="45" align="center" >  Languages And Tools:
   
   <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
       <img src="https://skillicons.dev/icons?i=cpp,python,cs,javascript,mongodb,nodejs,react,sklearn,mysql,git,typescript,fastapi,tailwindcss,wordpress,arduino" />
