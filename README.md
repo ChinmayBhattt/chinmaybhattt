@@ -65,7 +65,7 @@
   - Programming: `C++`, `Python`, `JavaScript`  
   - MERN Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
 - **Tools**:  
-  - `Figma`, `WordPress`, `Git/GitHub`, `Jupyter`, `MongoDB Atlas`  
+  - `Figma`, `WordPress`, `Git/GitHub`, `Jupyter`, `MongoDB Atlas`, `MATLAB`, `OpenRocket`
 - **Exploring**: Rocket Science alongside Programming and Design  
 - **Growth**: Thriving through collaborative and individual projects  
 
