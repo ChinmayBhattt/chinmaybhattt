@@ -4,6 +4,7 @@
 <!-- <h2 align="center">Leetcode Info</h2>   -->
 <p align="center">  
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank"> 
+
  
  
    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="100" width="100" ></img>
