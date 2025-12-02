@@ -27,7 +27,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!--<td>
          <!-- GitHub Streak Stats -->
        <!-- <a href="https://github.com/chinmaybhattt/github-readme-stats"><img alt="Chinmay Github Stats" src="https://github-readme-stats.vercel.app/api?username=chinmaybhattt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500" /></a>
          <!-- Most Used Languages inside the border -->
