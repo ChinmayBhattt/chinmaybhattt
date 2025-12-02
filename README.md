@@ -1,11 +1,11 @@
-<!-- Made by Chinmay Bhatt --> 
+<!-- Made by Chinmay Bhatt -->        
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaybhattt&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaybhattt" /> </p> 
-  
 <!-- <h2 align="center">Leetcode Info</h2>   -->
 <p align="center">
   <a href="https://leetcode.com/u/ChinmayBhattt/" target="_blank"> 
-
+ 
+ 
    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="100" width="100" ></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif"  height="100" width="100"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" height="100" width="100"></img>
@@ -16,6 +16,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="100" width="100"  ></img>
 
 </p>
+
 <!--# 📊 GitHub Stats -->
 <!--#<hr>-->
 
@@ -28,13 +29,13 @@
     <tr>
       <td>
          <!-- GitHub Streak Stats -->
-         <a href="https://github.com/chinmaybhattt/github-readme-stats"><img alt="Chinmay Github Stats" src="https://github-readme-stats.vercel.app/api?username=chinmaybhattt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500" /></a>
+       <!-- <a href="https://github.com/chinmaybhattt/github-readme-stats"><img alt="Chinmay Github Stats" src="https://github-readme-stats.vercel.app/api?username=chinmaybhattt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500" /></a>
          <!-- Most Used Languages inside the border -->
-  <a href="https://github.com/chinmaybhattt/github-readme-stats" ><img alt="Chinmay github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaybhattt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  width="314" /></a>
+    <!--<a href="https://github.com/chinmaybhattt/github-readme-stats" ><img alt="Chinmay github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaybhattt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  width="314" /></a>
+      -->
       </td>
-    </tr>
+   </tr>
   </table>
-  
   
 </div>
   <table>
@@ -95,4 +96,6 @@ Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26
 <!--- <hr> --->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
+
+
 
