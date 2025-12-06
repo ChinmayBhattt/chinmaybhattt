@@ -43,15 +43,14 @@
     <tr>
       <td>
         <!-- LeetCode Score -->
-        <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=chartreuse&font=Abel" alt="LeetCode Score" width="500" height="auto" />
+        <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=chartreuse&font=Abel" alt="LeetCode Score" width="660" height="auto" />
       </td>
       <td>
       <!-- GitHub Graph -->
-         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=aura&utcOffset=8" alt="Productive Time" width="450" />
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" alt="Productive Time" width="750" />
       </td>
     </tr>
   </table>
-
 
 <!-- Divider line -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -62,7 +61,8 @@
 - **CO-Founder** @Hacker's Unity <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right"> 
 - **3x Global & National Hackathon Organizer**
 - **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - @HackStorm 2025
-- **LinkedIn**: **70k+** Impressions | **3k+** Engagements  
+- **LinkedIn**: **70k+** Impressions | **3k+** Engagements
+- **Achievement**: 10,000+ Community Netowrk
 - **Skilled in**:  
   - Programming: `C++`, `Python`, `JavaScript`  
   - MERN Stack Development: `Node.js`, `Express.js`, `Next.js`, `React`, `MongoDB`, `Tailwind CSS`  
