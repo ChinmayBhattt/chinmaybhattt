@@ -78,10 +78,10 @@ Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26
 
 <a href = "https://instagram.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://x.com/chinmaybhattt"><img src="https://img.icons8.com/fluent/48/000000/twitter"/></a>
-<a href = "https://discord.gg/6RpzEHYdKt"><img src="https://img.icons8.com/color/48/000000/discord"/></a>
+<a href = "https://discord.com/invite/xcNNqdDhce"><img src="https://img.icons8.com/color/48/000000/discord"/></a>
 <a href = "https://linkedin.com/in/chinmaybhattt"><img src="https://img.icons8.com/color/48/000000/linkedin"/></a>
 <a href = "https://linktr.ee/ChinmayBhattt"><img src="https://img.icons8.com/color/48/000000/linktree"/></a>
-<a href = "https://youtube.com/@chinmaybhattt"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/@HackerUnity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://bsky.app/profile/chinmaybhatt.bsky.social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" align="top" align="bottom" height="39" width="40"/></a>
 
 </p>
