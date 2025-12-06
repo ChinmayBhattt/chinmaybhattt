@@ -60,7 +60,7 @@
 <!--https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif --->
 - **CO-Founder** @Hacker's Unity <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right"> 
 - **3x Global & National Hackathon Organizer**
-- **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - @HackStorm 2025
+- **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - @HackStorm 1.0, WCHL 2025
 - **LinkedIn**: **70k+** Impressions | **3k+** Engagements
 - **Achievement**: 10,000+ Community Netowrk
 - **Skilled in**:  
