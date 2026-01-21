@@ -14,7 +14,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="100" width="100"  ></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="100" width="100"  ></img>
 
-</p> 
+</p>  
 
 <!--# 📊 GitHub Stats -->
 <!--#<hr>-->
