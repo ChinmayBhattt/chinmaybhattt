@@ -56,18 +56,18 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 <!--https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif --->
-- **CO-Founder** @Hacker's Unity <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right">
+- **Co-Founder** @Hacker's Unity <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right">
 - **5x Global & National Hackathon Organizer**
 - **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - (HackStorm 1.0, WCHL 2025, HackVision)
 - **LinkedIn**: **100k+** Impressions | **10k+** Engagements
 - **Achievement**: 10,000+ Community Netowrk
 - **Skilled in**:  
   - Programming: `C++`, `Python`  
-  - Agentic AI: `LangChain`, `Pydantic AI`, `LangSmith`, `LangGraph`, `Claude`, ``  
+  - Agentic AI: `LangChain`, `Pydantic AI`, `LangSmith`, `LangGraph`, `Claude`  
 - **Tools**:  
   - `n8n`,`Zapier`,`GumLoop AI`,`Figma/Canva`, `WordPress`, `Git/GitHub`, `Jupyter`, , `MATLAB`, `OpenRocket`
 - **Exploring**: Rocket Science alongside Programming and Design  
-- **Growth**: Thriving through collaborative and individual projects  
+- **Growth**: Exploring Connections in UK and United States
 
 Feel free to connect or collaborate! chinmaybhatt26@gmail.com ![](chinmaybhatt26@gmail.com)  
 
