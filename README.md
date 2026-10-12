@@ -62,10 +62,13 @@
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 <!--https://cdn.dribbble.com/userupload/19716588/file/original-e0d213e8642d6075915e55bb8adbd422.gif --->
 - **Co-Founder** @Hacker's Unity <img src="https://github.com/ChinmayBhattt/chinmaybhattt/blob/main/Images/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right">
-- **5x Global & National Hackathon Organizer**
-- **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - (HackStorm 1.0, WCHL 2025, HackVision)
-- **LinkedIn**: **100k+** Impressions | **10k+** Engagements
-- **Achievement**: 10,000+ Community Netowrk
+- **10x Global & National Hackathon Organizer**
+- **𝟱 𝗠𝗶𝗹𝗶𝗶𝗼𝗻 Platform Impressions • Hacker's Unity**
+- **𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗲𝗿:** - (HackStorm 1.0, WCHL 2025, HackVision, CodeWars)
+- **LinkedIn**: **150k+** Impressions | **50k+** Engagements
+- **Achievement**: 10,000+ Community Netowrk Global • 𝗥𝗮𝗻𝗸 #𝟳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
+- **5𝟬,𝟬𝟬𝟬+ Strong Community Network across the 𝗨𝗞 𝗮𝗻𝗱 𝗜𝗻𝗱𝗶𝗮.**
+- **𝗧𝗿𝗮𝗶𝗻𝗲𝗱 60,000+ Students in AI, Web and App Development.**
 - **Skilled in**:  
   - Programming: `C++`, `Python`  
   - Agentic AI: `LangChain`, `Pydantic AI`, `LangSmith`, `LangGraph`, `Claude`  
